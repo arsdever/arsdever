@@ -9,4 +9,4 @@
 <img src="social_icons/cplusplus.svg" title="C++" width="22px"> <img src="social_icons/csharp.svg" title="C#" width="22px"> <img src="social_icons/unity.svg" title="Unity" width="22px"> <img src="social_icons/git.svg" title="Git" width="22px"> <img src="social_icons/github.svg" title="GitHub" width="22px"> <img src="social_icons/bitbucket.svg" title="BitBucket" width="22px"> <img src="social_icons/blender.svg" title="Blender3D" width="22px">
 
 ### Now listening to 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31u4zhprwgukk7fc6nymlm6745ty)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u4zhprwgukk7fc6nymlm6745ty&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31u4zhprwgukk7fc6nymlm6745ty&redirect=true)
