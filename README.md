@@ -1,5 +1,5 @@
 ![Arsen Gharagyozyan (arsdever)](https://github-readme-stats.vercel.app/api?username=arsdever&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&custom_title=Arsen%20Gharagyozyan%20(arsdever)&line_height=20&title_color=deab3c&icon_color=d5e61c&text_color=619c36&bg_color=00000000)
-
+![Arsen Gharagyozyan (arsdever)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsdever&layout=compact&langs_count=6&line_height=20&title_color=deab3c&icon_color=d5e61c&text_color=619c36&bg_color=00000000)
 > Switch to [Dark mode](https://github.com/settings/appearance) for better experience 😊
 
 ### Find me on social networks
