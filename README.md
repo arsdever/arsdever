@@ -2,6 +2,8 @@
 ![Arsen Gharagyozyan (arsdever)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsdever&layout=compact&langs_count=6&line_height=20&title_color=deab3c&icon_color=d5e61c&text_color=619c36&bg_color=00000000)
 > Switch to [Dark mode](https://github.com/settings/appearance) for better experience 😊
 
+![](https://komarev.com/ghpvc/?username=arsdever&style=flat&label=Profile+views)
+
 ### Find me on social networks
 [<img src="social_icons/gmail.svg" title="GMail" width="22px">](mailto:arsen.gharagyozyn.96@gmail.com) [<img src="social_icons/facebook.svg" title="Facebook" width="22px">](https://www.facebook.com/arsen.gharagyozyan) [<img src="social_icons/linkedin.svg" title="LinkedIn" width="22px">](https://www.linkedin.com/in/arsdever/) [<img src="social_icons/stackoverflow.svg" title="StackOverflow" width="22px">](https://stackoverflow.com/users/10185183/arsdever) [<img src="social_icons/instagram.svg" title="Instagram" width="22px">](https://www.instagram.com/arsdever/) [<img src="social_icons/twitter.svg" title="Twitter" width="22px">](https://twitter.com/arsdever)
 
