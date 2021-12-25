@@ -3,6 +3,7 @@
 > Switch to [Dark mode](https://github.com/settings/appearance) for better experience 😊
 
 ![](https://komarev.com/ghpvc/?username=arsdever&style=flat&label=Profile+views)
+![](https://img.shields.io/github/stars/arsdever?affiliations=OWNER%2CCOLLABORATOR&color=%23fcd53f&label=stars%20%E2%AD%90&logo=github&logoColor=%23fcd53f)
 
 ### Find me on social networks
 [<img src="social_icons/gmail.svg" title="GMail" width="22px">](mailto:arsen.gharagyozyn.96@gmail.com) [<img src="social_icons/facebook.svg" title="Facebook" width="22px">](https://www.facebook.com/arsen.gharagyozyan) [<img src="social_icons/linkedin.svg" title="LinkedIn" width="22px">](https://www.linkedin.com/in/arsdever/) [<img src="social_icons/stackoverflow.svg" title="StackOverflow" width="22px">](https://stackoverflow.com/users/10185183/arsdever) [<img src="social_icons/instagram.svg" title="Instagram" width="22px">](https://www.instagram.com/arsdever/) [<img src="social_icons/twitter.svg" title="Twitter" width="22px">](https://twitter.com/arsdever)
