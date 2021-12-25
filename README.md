@@ -2,7 +2,7 @@
 ![Arsen Gharagyozyan (arsdever)](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsdever&layout=compact&langs_count=6&line_height=20&title_color=deab3c&icon_color=d5e61c&text_color=619c36&bg_color=00000000)
 > Switch to [Dark mode](https://github.com/settings/appearance) for better experience 😊
 
-![](https://komarev.com/ghpvc/?username=arsdever&style=flat&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=arsdever&style=flat&label=Profile+views+👀)
 ![](https://img.shields.io/github/stars/arsdever?affiliations=OWNER%2CCOLLABORATOR&color=%23fcd53f&label=stars%20%E2%AD%90&logo=github&logoColor=%23fcd53f)
 
 ### Find me on social networks
